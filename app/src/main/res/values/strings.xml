@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Google_map_app_test1</string>
-    <string name="google_app_name">AIzaSyC-U5qsxx2C_bAYV2ctm0K2Wd4KV7Q9ZLg</string>
+    <string name="google_map_api_key">AIzaSyC-U5qsxx2C_bAYV2ctm0K2Wd4KV7Q9ZLg</string>
 </resources>
